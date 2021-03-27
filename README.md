@@ -1,5 +1,5 @@
-<h1 align = "center"> Merhaba 👋, ben Ahmet Berkay </h1>
-<h3 align = "center"> Türkiye'deki genç yazılım geliştiricisi </h3>
+<h1 align = "center"> Hello 👋, I'm Ahmet Berkay </h1>
+<h3 align = "center"> Young Software Developers in Turkey </h3>
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=ahmetb14&label=Profile%20views&color=0e75b6&style=flat" alt = "ahmetb14" /> </p>
 
