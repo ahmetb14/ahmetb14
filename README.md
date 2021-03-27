@@ -1,24 +1,19 @@
-<h1 align = "center"> Hello 👋, I'm Ahmet Berkay </h1>
-<h3 align = "center"> Young Software Developers in Turkey </h3>
+<h1 align="center">Hi 👋, I'm Melek</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meleklacin&label=Profile%20views&color=0e75b6&style=flat" alt="meleklacin" /> </p>
 
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=ahmetb14&label=Profile%20views&color=0e75b6&style=flat" alt = "ahmetb14" /> </p>
-
-<p align = "left"> <a href = "https: //github.com/ryo-ma/github-profile-trophy"><img src = "https://github-profile-trophy.vercel.app/?username=ahmetb14" alt = "ahmetb14" /> </ a> </p>
-
-- 🌱 I am currently learning HTML 5 / CSS 
-
-- 📫 How can i reach me **ahmet_66_26@hotmail.com**
-
-<h3 align = "left"> Connect me: </ h3>
-<p align = "sol ">
-<a href="https://linkedin.com/in/ahmetb14" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0 .1 / icons / linkedin.svg "alt =" ahmetb14 "height =" 30 "width =" 40 "/> </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/melek_lacin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="melek_lacin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/meleklacinn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="meleklacinn" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9386212/m-lacin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9386212/m-lacin" height="30" width="40" /></a>
+<a href="https://kaggle.com/meleklain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="meleklain" height="30" width="40" /></a>
+<a href="https://instagram.com/melek.lacinn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="melek.lacinn" height="30" width="40" /></a>
+<a href="https://medium.com/@meleklacinn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@meleklacinn" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/meleklacinn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="meleklacinn" height="30" width="40" /></a>
 </p>
 
-<h3 align =" left "> Languages and Tools: </h3>
-<p align = "left"> <a href="https://angular.io" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/ angularjs / angularjs-original-wordmark.svg "alt =" angularjs "width =" 40 "height =" 40 "/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt = "bootstrap" width = "40" height = "40" /> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src = "https: //raw.githubusercontent.com / devicons / devicon / master / icons / csharp / csharp-original.svg "alt =" csharp "width =" 40 "height =" 40 "/> </a> <a href =" https: // www. w3schools.com/css/ "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg "alt =" css3 "width =" 40 "height =" 40 "/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src =" https: // raw. githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg "alt =" dotnet "width =" 40 "height =" 40 "/> </a> <a href = "https: //www.w3.org / html / "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg "alt =" html5 "genişliği = "40" height = "40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt = "javascript" width = "40" height = "40" /> </a> <a href = "https://nodejs.org" target = "_ blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt = "nodejs "width =" 40 "height =" 40 "/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src =" https: // raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg "alt =" photoshop "width =" 40 "height =" 40 "/> </a> <a href =" https: //www.php.net "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg "alt =" php " width = "40" height = "40" /> </a> <a href="https://postman.com" target="_blank"> <img src = "https: //www.vectorlogo.zone / logos / getpostman / getpostman-icon.svg "alt =" postman "width =" 40 "height =" 40 "/> </a> <a href =" https://www.typescriptlang.org/ "hedef = "_ blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt = "typcript" width = "40" height = "40 "/> </a> </p>typescript "width =" 40 "height =" 40 "/> </a> </p>typescript "width =" 40 "height =" 40 "/> </a> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 
-<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=ahmetb14&show_icons=true&locale=en&layout=compact" alt = "ahmetb14" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meleklacin&show_icons=true&locale=en" alt="meleklacin" /></p>
 
-<p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=ahmetb14&show_icons=true&locale=en" alt = "ahmetb14" /> </p>
-
-<p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=ahmetb14&" alt = "ahmetb14" /> </p>
