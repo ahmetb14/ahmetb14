@@ -5,7 +5,7 @@
 
 <p align = "left"> <a href = "https: //github.com/ryo-ma/github-profile-trophy"><img src = "https://github-profile-trophy.vercel.app/?username=ahmetb14" alt = "ahmetb14" /> </ a> </p>
 
-- 🌱 I am currently learning ** HTML 5 / CSS **
+- 🌱 I am currently learning HTML 5 / CSS 
 
 - 📫 How can i reach me **ahmet_66_26@hotmail.com**
 
