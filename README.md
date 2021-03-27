@@ -6,6 +6,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmetb14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmetb14" height="30" width="40" /></a>
+<a href="https://instagram.com/ahmetberkay.jpg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ahmetberkay.jpg" height="30" width="40" /></a>
+<a href="https://discord.gg/#0057" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#0057" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,3 +16,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetb14&show_icons=true&theme=dark&title_color=47b398&text_color=2d9785&bg_color=0d0c0c&locale=en" alt="ahmetb14" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetb14&theme=dark" alt="ahmetb14" /></p>
+
