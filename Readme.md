@@ -2,7 +2,7 @@
 <h3 align="center">>The Junior Software Developer in Turkey<</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetb14&label=Profile%20Views&color=237b5e&style=flat-square" alt="ahmetb14" /> </p>
-<a href="http://ahmetberkay.epizy.com/?i=1" target="_blank">=>My Web Site Page</a>
+<b><a href="http://ahmetberkay.epizy.com/?i=1" target="_blank">->Go to My Personal Web Page</a></b>
 
 
 <h3 align="left">Favorite Software Languages And Tools:</h3>
