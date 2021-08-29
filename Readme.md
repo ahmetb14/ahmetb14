@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi 👋, I'm Ahmet Berkay Yılmaz</b></h1>
+<h1 align="center"><b><i>Hi 👋, I'm Ahmet Berkay Yılmaz</i></b></h1>
 <h3 align="center"><b>A passionate junior software developer from Turkey</b></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmetb14&label=Views%20number&color=4986d4&style=flat" alt="ahmetb14" /> </p>
