@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Berkay Yılmaz</h1>
 <h3 align="center">A passionate junior software developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetb14&label=Views%20number&color=4986d4&style=flat" alt="ahmetb14" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmetb14&label=Views%20number&color=4986d4&style=flat" alt="ahmetb14" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
