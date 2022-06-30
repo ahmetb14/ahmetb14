@@ -1,6 +1,6 @@
 <h1 align="center"><b><i>Hi 👋, I'm Ahmet Berkay Yılmaz</i></b></h1>
 
-<h3 align="center"><b><i><a href="http://ahmetberkay.epizy.com/index.html">-> Click to browse my personal website!</a></i></b></h3>
+<h3 align="center"><b><i><a href="http://ahmetberkay.epizy.com/index.html">--> Click to browse my personal website!</a></i></b></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmetb14&label=Views%20number&color=2f7960&style=flat" alt="ahmetb14" /> </p>
 
